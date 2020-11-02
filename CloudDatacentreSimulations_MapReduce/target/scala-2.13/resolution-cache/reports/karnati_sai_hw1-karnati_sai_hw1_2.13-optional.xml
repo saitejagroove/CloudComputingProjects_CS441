@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="karnati_sai_hw1"
+		module="karnati_sai_hw1_2.13"
+		revision="0.1"
+		conf="optional"
+		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool"
+		date="20200927200501"/>
+	<dependencies>
+	</dependencies>
+</ivy-report>

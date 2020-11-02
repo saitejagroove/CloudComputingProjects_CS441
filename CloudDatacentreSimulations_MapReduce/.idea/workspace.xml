@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="4" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f9acaa7c-cecd-423b-8135-afbd343c56e1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1htSZ0ZdK7GK80cridziWuCKtTf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cloudhw1a" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.intellij.jarRepository.settings.RemoteRepositoriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Sem3\cloudhw1\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CsimNoSpace">
+    <configuration name="CsimLowRes" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.karna3.CsimLowRes" />
+      <module name="Karnati_sai_hw1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.karna3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CsimNoSpace" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.karna3.CsimNoSpace" />
+      <module name="Karnati_sai_hw1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.karna3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CsimNoTime" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.karna3.CsimNoTime" />
+      <module name="Karnati_sai_hw1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.karna3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CsimSpaceShared" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.karna3.CsimSpaceShared" />
+      <module name="Karnati_sai_hw1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.karna3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CsimTimeShared" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.karna3.CsimTimeShared" />
+      <module name="Karnati_sai_hw1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.karna3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="SbtRunConfiguration" factoryName="sbt Task" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="tasks" value="sbttask" />
+      <option name="useSbtShell" value="true" />
+      <option name="vmparams" value="-Xms512M -Xmx1024M -Xss1M -XX:+CMSClassUnloadingEnabled" />
+      <option name="workingDir" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CsimNoSpace" />
+        <item itemvalue="Application.CsimSpaceShared" />
+        <item itemvalue="Application.CsimNoTime" />
+        <item itemvalue="Application.CsimLowRes" />
+        <item itemvalue="Application.CsimTimeShared" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="Karnati_sai_hw1" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="cloudhw1 [file:/D:/Sem3/cloudhw1/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="Karnati_sai_hw1-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="3741267081" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9acaa7c-cecd-423b-8135-afbd343c56e1" name="Default Changelist" comment="" />
+      <created>1600828946529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600828946529</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="485" y="91" key="#Simulation1" timestamp="1601011257460">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="485" y="91" key="#Simulation1/0.0.1536.864@0.0.1536.864" timestamp="1601011257460" />
+    <state x="223" y="88" width="1089" height="775" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600829263011">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="88" width="1089" height="775" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864/1920.6.1920.1200@0.0.1536.864" timestamp="1600829263011" />
+    <state x="503" y="312" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1601210556785">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="503" y="312" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.864@0.0.1536.864" timestamp="1601210556785" />
+    <state x="31" y="103" width="1350" height="678" key="DiffContextDialog" timestamp="1601215492115">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="31" y="103" width="1350" height="678" key="DiffContextDialog/0.0.1536.864@0.0.1536.864" timestamp="1601215492115" />
+    <state x="549" y="188" key="FileChooserDialogImpl" timestamp="1601212674297">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="188" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1601212674297" />
+    <state width="1493" height="170" key="GridCell.Tab.0.bottom" timestamp="1601258316077">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="170" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1601258316077" />
+    <state width="1493" height="170" key="GridCell.Tab.0.center" timestamp="1601258316077">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="170" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1601258316077" />
+    <state width="1493" height="170" key="GridCell.Tab.0.left" timestamp="1601258316077">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="170" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1601258316077" />
+    <state width="1493" height="170" key="GridCell.Tab.0.right" timestamp="1601258316077">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="170" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1601258316077" />
+    <state x="277" y="75" key="SettingsEditor" timestamp="1601213010725">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="277" y="75" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1601213010725" />
+    <state x="465" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1601212543088">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="465" y="257" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1601212543088" />
+    <state x="462" y="30" width="611" height="804" key="find.popup" timestamp="1601257402353">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="462" y="30" width="611" height="804" key="find.popup/0.0.1536.864@0.0.1536.864" timestamp="1601257402353" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1601215246873">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1601215246873" />
+  </component>
+</project>

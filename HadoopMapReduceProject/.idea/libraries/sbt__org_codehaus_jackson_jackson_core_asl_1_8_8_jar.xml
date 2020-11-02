@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.codehaus.jackson:jackson-core-asl:1.8.8:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/null/Coursier/cache/v1/https/repo1.maven.org/maven2/org/codehaus/jackson/jackson-core-asl/1.8.8/jackson-core-asl-1.8.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/null/Coursier/cache/v1/https/repo1.maven.org/maven2/org/codehaus/jackson/jackson-core-asl/1.8.8/jackson-core-asl-1.8.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

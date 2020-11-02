@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(D:\Sem3\cloudhw1\src\main\resources\logback.xml,D:\Sem3\cloudhw1\target\scala-2.13\classes\logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(D:\Sem3\cloudhw1\src\main\resources\simulation1.conf,D:\Sem3\cloudhw1\target\scala-2.13\classes\simulation1.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(D:\Sem3\cloudhw1\src\main\resources\simulation2.conf,D:\Sem3\cloudhw1\target\scala-2.13\classes\simulation2.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(D:\Sem3\cloudhw1\src\main\resources\simulation2low.conf,D:\Sem3\cloudhw1\target\scala-2.13\classes\simulation2low.conf)[0m
